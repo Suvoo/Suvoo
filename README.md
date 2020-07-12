@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**Suvoo/Suvoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+Hi, My name is Suvodeep Sinha. I am a Sophomore at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. An 18 year old, decoding Life by building scalable App and Web services for high availability, resilience and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 LinkedIn profile: [Suvodeep Sinha](https://www.linkedin.com/in/suvodeep-sinha-59652418b/)
+- 🎯 Portfolio site: [Portfolio](https://bit.ly/suvoo_o)
+- 🔔 Instagram:- [suvoo_o](https://www.instagram.com/suvoo_o/)
+
+
+
+![Suvoo's github stats](https://github-readme-stats.vercel.app/api?username=Suvoo&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Suvoo.Suvoo)
