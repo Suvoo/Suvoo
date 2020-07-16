@@ -12,6 +12,6 @@ Hi, My name is Suvodeep Sinha. I am a Sophomore at SRM-IST pursuing my Bachelor'
 
 
 
-![Suvoo's github stats](https://github-readme-stats.vercel.app/api?username=Suvoo&hide=["issues"]&show_icons=true)
+![Suvoo's github stats](https://github-readme-stats.vercel.app/api?username=Suvoo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
