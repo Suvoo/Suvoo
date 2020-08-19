@@ -4,7 +4,7 @@
 
 Hi, My name is Suvodeep Sinha. I am a Sophomore at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. An 18 year old, decoding Life by building scalable App and Web services for high availability, resilience and security.
 
-## Hello World!! 🤔
+## Hello World!! 😃
 - 💬 Ask me about anything an everything.
 - 📫 LinkedIn profile: [Suvodeep Sinha](https://www.linkedin.com/in/suvodeep-sinha-59652418b/)
 - 🎯 Portfolio site: [Portfolio](https://bit.ly/suvoo_o)
