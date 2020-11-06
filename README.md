@@ -8,6 +8,7 @@ Hi, My name is Suvodeep Sinha. I am a Sophomore at SRM-IST pursuing my Bachelor'
 - 💬 Ask me about anything an everything.
 - 📫 LinkedIn profile: [Suvodeep Sinha](https://www.linkedin.com/in/suvodeep-sinha-59652418b/)
 - 🎯 Portfolio site: [Portfolio](https://bit.ly/suvoo_o)
+- 🐦 Twitter : [suvoo_o](https://twitter.com/suvoo_o)
 - 🔔 Instagram:- [suvoo_o](https://www.instagram.com/suvoo_o/)
 
 
