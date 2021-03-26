@@ -12,10 +12,13 @@ Hi, My name is Suvodeep Sinha. I am a Sophomore at SRM-IST pursuing my Bachelor'
 - 🔔 Instagram:- [suvoo_o](https://www.instagram.com/suvoo_o/)
 
 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvoo&theme=dark" />
+
 
 ![Suvoo's github stats](https://github-readme-stats.vercel.app/api?username=Suvoo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvoo&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
+
+
 
 
 
