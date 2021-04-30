@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Suvodeep Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> /></h2>
+<h2 align="center">Hi, I am Suvodeep Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
@@ -30,6 +30,7 @@ I'm currently a research intern at IIT Patna, at DANeS Lab. I am a sophomore Com
 <h3 align="left">Some Stats </h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvoo&theme=monokai) 
-![](https://activity-graph.herokuapp.com/graph?username=Suvoo&theme=react-dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suvoo&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suvoo&theme=monokai) 
 
 ![](https://komarev.com/ghpvc/?username=Suvoo&color=blue)
