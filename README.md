@@ -1,26 +1,35 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hi, I am Suvodeep Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> /></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://twitter.com/suvoo_o">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/suvoo_o/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:mail.suvoo@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://github.com/Suvoo">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.kaggle.com/suvooo">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://leetcode.com/suvoo/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="3.5%"/>
+  </a><span>&nbsp;</span>  
+</p>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h3 align="left">About me </h3>
 
-Hi, My name is Suvodeep Sinha. I am a Sophomore at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. An 18 year old, decoding Life by building scalable App and Web services for high availability, resilience and security.
+I'm currently a research intern at IIT Patna, at DANeS Lab. I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Machine Learning techniques, Python developement and Mobile Application Developement
 
-## Hello World!! 😃
-- 💬 Ask me about anything an everything.
-- 📫 LinkedIn profile: [Suvodeep Sinha](https://www.linkedin.com/in/suvodeep-sinha-59652418b/)
-- 🎯 Portfolio site: [Portfolio](https://bit.ly/suvoo_o)
-- 🐦 Twitter : [suvoo_o](https://twitter.com/suvoo_o)
-- 🔔 Instagram:- [suvoo_o](https://www.instagram.com/suvoo_o/)
+<h3 align="left">Some Stats </h3>
 
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvoo&theme=dark" />
-
-
-![Suvoo's github stats](https://github-readme-stats.vercel.app/api?username=Suvoo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvoo&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
-
-
-
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvoo&theme=monokai) 
+![](https://activity-graph.herokuapp.com/graph?username=Suvoo&theme=react-dark)
 
 ![](https://komarev.com/ghpvc/?username=Suvoo&color=blue)
