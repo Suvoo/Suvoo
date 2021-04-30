@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Suvodeep Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h1 align="center">Hi, I am Suvodeep Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
@@ -23,11 +23,11 @@
   </a><span>&nbsp;</span>  
 </p>
 
-<h3 align="left">About me </h3>
+<h2 align="left">About me </h2>
 
-I'm currently a research intern at IIT Patna, at DANeS Lab. I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Machine Learning techniques, Python developement and Mobile Application Developement
+<h4> I'm currently a research intern at IIT Patna, at DANeS Lab. I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Machine Learning techniques, Python developement and Mobile Application Developement </h4>
 
-<h3 align="left">Some Stats </h3>
+<h2 align="left">Some Stats </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvoo&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suvoo&theme=monokai) 
