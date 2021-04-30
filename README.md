@@ -25,7 +25,7 @@
 
 <h2 align="left">About me </h2>
 
-<h4> I'm currently a research intern at IIT Patna, at DANeS Lab. I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Machine Learning techniques, Python developement and Mobile Application Developement </h4>
+<h4> I'm currently a research intern at IIT Patna, at DANeS Lab. I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Machine Learning techniques, Python development and Mobile Application development </h4>
 
 <h2 align="left">Some Stats </h2>
 
