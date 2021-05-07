@@ -25,7 +25,7 @@
 
 <h2 align="left">About me </h2>
 
-<h4>I will be joining as a Research Intern at IIT Mandi this summer .I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Machine Learning techniques, Python development and Mobile Application development </h4>
+**I am currently a Research Intern at IIT Mandi**.I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Machine Learning techniques, Python development and Mobile Application development
 
 <h2 align="left">Some Stats </h2>
 
