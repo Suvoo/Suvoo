@@ -25,7 +25,7 @@
 
 <h2 align="left">About me </h2>
 
-**I was a Research Intern at IIT Mandi last summer**.I am a sophomore Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Deep Learning, Computer vision and Machine Learning techniques
+**I was a Research Intern at IIT Mandi last summer**. I am a Junior Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Deep Learning, Computer vision and Machine Learning techniques
 
 <h2 align="left">Some Stats </h2>
 
