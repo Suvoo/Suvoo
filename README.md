@@ -15,6 +15,9 @@
   <a href="https://github.com/Suvoo">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+  <a href="https://medium.com/@suvoo">
+    <img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
   <a href="https://www.kaggle.com/suvooo">
     <img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="3.5%"/>
   </a><span>&nbsp;</span>
