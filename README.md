@@ -25,15 +25,15 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="3.5%"/>
   </a><span>&nbsp;</span>  
 </p>
-
+<!-- 
 <h2 align="left">About me </h2>
 
-**I was a Research Intern at IIT Mandi last summer**. I am a Junior Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Deep Learning, Computer vision and Machine Learning techniques
-
-<h2 align="left">Some Stats </h2>
+I am a DAAD-WISE Schola**I was a Research Intern at IIT Mandi last summer**. I am a Junior Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Deep Learning, Computer vision and Machine Learning techniques
+ -->
+<!-- <h2 align="left">Some Stats </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvoo&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suvoo&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suvoo&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suvoo&theme=monokai)  -->
 
 ![](https://komarev.com/ghpvc/?username=Suvoo&color=blue)
