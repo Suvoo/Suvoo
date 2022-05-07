@@ -25,11 +25,14 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="3.5%"/>
   </a><span>&nbsp;</span>  
 </p>
-<!-- 
+
 <h2 align="left">About me </h2>
 
-I am a DAAD-WISE Schola**I was a Research Intern at IIT Mandi last summer**. I am a Junior Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Deep Learning, Computer vision and Machine Learning techniques
- -->
+I am an incoming **DAAD-WISE Scholar** at Ruhr University Bochum - Germany, and will be working with the Institute of Neuroinformatics group. Last Summer,I was a Research Intern at IIT Mandi . I am a Junior Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Deep Learning, Computer vision and Machine Learning techniques
+
+<h2 align="left">Look what Im listening to </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nufxnripfz4rh6csuy3tpsq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <!-- <h2 align="left">Some Stats </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvoo&theme=monokai) 
