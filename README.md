@@ -32,7 +32,9 @@ I am an incoming **DAAD-WISE Scholar** at Ruhr University Bochum - Germany, and 
 
 <h2 align="left">Look what Im listening to </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nufxnripfz4rh6csuy3tpsq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21nufxnripfz4rh6csuy3tpsq&count=7)
+
 <!-- <h2 align="left">Some Stats </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvoo&theme=monokai) 
