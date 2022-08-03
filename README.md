@@ -28,12 +28,12 @@
 
 <h2 align="left">About me </h2>
 
-I am an incoming **DAAD-WISE Scholar** at Ruhr University Bochum - Germany, and will be working with the Institute of Neuroinformatics group. Last Summer,I was a Research Intern at IIT Mandi . I am a Junior Computer Science Undergrad at SRM Institute of Science and Technology, Chennai and am interested in Deep Learning, Computer vision and Machine Learning techniques
+My profiles are listed above, and if you want to know more about me --> <a href = "https://suvoo.github.io">suvoo.github.io </a>
 
-<h2 align="left">Look what Im listening to </h2>
+<!-- <h2 align="left">Look what Im listening to </h2>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21nufxnripfz4rh6csuy3tpsq&count=7)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21nufxnripfz4rh6csuy3tpsq&count=7) -->
 
 <!-- <h2 align="left">Some Stats </h2>
 
