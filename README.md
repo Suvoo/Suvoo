@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Suvodeep Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
+  <a href="https://www.linkedin.com/in/suvoo/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
   <a href="https://twitter.com/suvoo_o">
