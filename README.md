@@ -21,9 +21,9 @@
   <a href="https://www.kaggle.com/suvooo">
     <img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://leetcode.com/suvoo/">
+<!--   <a href="https://leetcode.com/suvoo/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="3.5%"/>
-  </a><span>&nbsp;</span>  
+  </a><span>&nbsp;</span>   -->
 </p>
 
 <h2 align="left">About me </h2>
