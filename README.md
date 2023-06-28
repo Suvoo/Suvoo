@@ -30,6 +30,10 @@
 
 My profiles are listed above, and if you want to know more about me --> <a href = "https://suvoo.github.io">suvoo.github.io </a>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- [![@suvoo_o's Holopin board](https://holopin.io/api/user/board?user=suvoo_o)](https://holopin.io/@suvoo_o) -->
 
 
