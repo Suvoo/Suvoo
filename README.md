@@ -32,6 +32,13 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 
 <!--START_SECTION:waka-->
 
+```txt
+HTML       1 hr 30 mins    ████████████░░░░░░░░░░░░░   47.87 %
+Python     59 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
+Solidity   39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- [![@suvoo_o's Holopin board](https://holopin.io/api/user/board?user=suvoo_o)](https://holopin.io/@suvoo_o) -->
