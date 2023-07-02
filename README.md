@@ -35,11 +35,11 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       59 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
-HTML         58 mins         ████████░░░░░░░░░░░░░░░░░   31.67 %
-Solidity     35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-JavaScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Bash         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Python       59 mins         ███████████▓░░░░░░░░░░░░░   47.03 %
+Solidity     35 mins         ███████░░░░░░░░░░░░░░░░░░   28.45 %
+JavaScript   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Bash         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->
