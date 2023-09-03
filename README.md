@@ -30,7 +30,7 @@
 
 My profiles are listed above, and if you want to know more about me --> <a href = "https://suvoo.github.io">suvoo.github.io </a>
 
-<h2 align="left">How I spent my yesterday!</h2>
+<h2 align="left">How I spent my last week!</h2>
 
 <!--START_SECTION:waka-->
 
