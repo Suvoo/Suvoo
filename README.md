@@ -35,8 +35,7 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-Python     11 mins         ██████████████████████▒░░   89.45 %
-Markdown   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
