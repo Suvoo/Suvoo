@@ -35,7 +35,9 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      1 hr 29 mins    ████████████████████░░░░░   79.73 %
+C++        21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
