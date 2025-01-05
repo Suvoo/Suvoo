@@ -35,7 +35,9 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       13 mins         ██████████▒░░░░░░░░░░░░░░   41.45 %
+HTML         11 mins         ████████▓░░░░░░░░░░░░░░░░   34.29 %
+JavaScript   7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.26 %
 ```
 
 <!--END_SECTION:waka-->
