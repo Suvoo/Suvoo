@@ -35,11 +35,11 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 29 mins  ███████████████████████▒░   93.33 %
-JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python   10 hrs 56 mins  ████████████████████████▒   97.66 %
+JSON     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Text     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
