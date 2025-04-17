@@ -35,11 +35,11 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 57 mins    █████████▓░░░░░░░░░░░░░░░   38.59 %
-C++        1 hr 44 mins    ████████▓░░░░░░░░░░░░░░░░   34.23 %
-CMake      49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Bash       25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Makefile   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python     2 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   44.81 %
+C++        2 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.74 %
+CMake      49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Bash       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Makefile   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
