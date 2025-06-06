@@ -35,9 +35,9 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-C++     4 hrs 24 mins   ███████████████████████▓░   95.02 %
-SQL     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-CMake   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+C++     8 hrs 37 mins   ████████████████████████▒   96.86 %
+SQL     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+CMake   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
