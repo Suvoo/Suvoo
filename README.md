@@ -35,11 +35,11 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-Text         7 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   46.77 %
-C++          6 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.78 %
-Markdown     1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-CMake        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Text         9 hrs 8 mins    ██████████████░░░░░░░░░░░   55.87 %
+C++          5 hrs 13 mins   ████████░░░░░░░░░░░░░░░░░   32.00 %
+Markdown     45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+CMake        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
