@@ -35,11 +35,11 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-Text         2 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-YAML         1 hr 56 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
-C++          1 hr 51 mins    ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-Markdown     43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Python       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+YAML         2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.35 %
+Text         2 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.94 %
+C++          1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Python       44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Markdown     43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
 ```
 
 <!--END_SECTION:waka-->
