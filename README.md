@@ -38,7 +38,7 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 Python       8 hrs 14 mins         ██████████░░░░░░░░░░░░░░░   40.37 %
 TypeScript   5 hrs 25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
 Markdown     3 hrs 4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Other        1 hr 41 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Other        1 hr 41 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 Bash         48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
