@@ -35,7 +35,11 @@ My profiles are listed above, and if you want to know more about me --> <a href 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript     47 mins               ███████▒░░░░░░░░░░░░░░░░░   29.61 %
+Markdown       31 mins               █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+Diff           16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+JSON           15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Image (jpeg)   12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 ```
 
 <!--END_SECTION:waka-->
